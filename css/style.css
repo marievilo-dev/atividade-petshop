@@ -155,3 +155,16 @@ iframe {
   font-size: 50px;
   color: rgb(65, 65, 205);
 }
+
+.social a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+  margin-right: 20px;
+}
+
+.social a span {
+  margin-left: 10px;
+  font-size: 18px;
+}
